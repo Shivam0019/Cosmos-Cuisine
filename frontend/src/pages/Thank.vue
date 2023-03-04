@@ -20,9 +20,7 @@
             <p v-none>Thank you for giving us your trust!</p>
             <p v-none>
                 We have just confirmed you received your order, and hope you are enjoying it.
-                Every
-                item is handmade by our team, with care to the details, so we can always provide you with the best
-                experience.
+                
             </p>
             <router-link class="btn" to="/menu">Continue Shopping</router-link>
         </div>
@@ -71,9 +69,9 @@ const vNone = {
     -webkit-animation: bounce 0.3s ease infinite alternate;
     font-size: 80px;
     color: #fff;
-    text-shadow: 0 1px 0 #20884b, 0 2px 0 #20884b, 0 3px 0 #20884b, 0 4px 0 #20884b,
-        0 5px 0 #20884b, 0 6px 0 transparent, 0 7px 0 transparent, 0 8px 0 transparent,
-        0 9px 0 transparent, 0 10px 10px rgba(0, 0, 0, 0.4);
+        text-shadow: 0 1px 0 #94231B, 0 2px 0 #94231B, 0 3px 0 #94231B, 0 4px 0 #94231B,
+        0 5px 0 #94231B, 0 6px 0 transparent, 0 7px 0 transparent, 0 8px 0 transparent,
+        0 9px 0 transparent, 0 10px 10px rgba(0, 0, 0, 0.4); 
 }
 
 .thank-container h1 p span:nth-child(2) {
@@ -108,8 +106,8 @@ const vNone = {
 @-webkit-keyframes bounce {
     100% {
         top: -20px;
-        text-shadow: 0 1px 0 #20884b, 0 2px 0 #20884b, 0 3px 0 #20884b, 0 4px 0 #20884b,
-            0 5px 0 #20884b, 0 6px 0 #20884b, 0 7px 0 #20884b, 0 8px 0 #20884b, 0 9px 0 #20884b,
+        text-shadow: 0 1px 0 #94231B, 0 2px 0 #94231B, 0 3px 0 #94231B, 0 4px 0 #94231B,
+            0 5px 0 #94231B, 0 6px 0 #94231B, 0 7px 0 #94231B, 0 8px 0 #94231B, 0 9px 0 #94231B,
             0 50px 25px rgba(0, 0, 0, 0.2);
     }
 }
