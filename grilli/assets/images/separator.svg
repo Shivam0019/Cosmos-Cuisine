@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 97.1 12.7" enable-background="new 0 0 97.1 12.7" xml:space="preserve">
-<rect x="31.6" y="3" transform="matrix(0.7071 0.7071 -0.7071 0.7071 14.7528 -22.8645)" fill="none" stroke="#E3C48E" stroke-width="0.75" stroke-miterlimit="10" width="6.8" height="6.8"/>
-<rect x="58.7" y="3" transform="matrix(0.7071 0.7071 -0.7071 0.7071 22.699 -42.0484)" fill="none" stroke="#E3C48E" stroke-width="0.75" stroke-miterlimit="10" width="6.8" height="6.8"/>
-<polygon fill="none" stroke="#E3C48E" stroke-width="0.75" stroke-miterlimit="10" points="48.6,12.1 39.8,6.4 48.6,0.6 57.3,6.4 
-	"/>
-<line fill="none" stroke="#E3C48E" stroke-width="0.75" stroke-miterlimit="10" x1="3.2" y1="6.4" x2="30.2" y2="6.4"/>
-<circle fill="#E3C48E" cx="2.6" cy="6.4" r="2.5"/>
-<line fill="none" stroke="#E3C48E" stroke-width="0.75" stroke-miterlimit="10" x1="93.9" y1="6.4" x2="66.9" y2="6.4"/>
-<circle fill="#E3C48E" cx="94.4" cy="6.4" r="2.5"/>
+<svg width="98" height="13" viewBox="0 0 98 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_7_91)">
+<path d="M39.7844 6.40948L34.9761 1.6012L30.1678 6.40948L34.9761 11.2178L39.7844 6.40948Z" stroke="#E2893C" stroke-width="0.75" stroke-miterlimit="10"/>
+<path d="M66.8928 6.38799L62.0845 1.57971L57.2762 6.38799L62.0845 11.1963L66.8928 6.38799Z" stroke="#E2893C" stroke-width="0.75" stroke-miterlimit="10"/>
+<path d="M48.5998 12.1L39.7998 6.39998L48.5998 0.599976L57.2998 6.39998L48.5998 12.1Z" stroke="#E2893C" stroke-width="0.75" stroke-miterlimit="10"/>
+<path d="M3.2002 6.40002H30.2002" stroke="#E2893C" stroke-width="0.75" stroke-miterlimit="10"/>
+<path d="M2.6001 8.90002C3.98081 8.90002 5.1001 7.78074 5.1001 6.40002C5.1001 5.01931 3.98081 3.90002 2.6001 3.90002C1.21939 3.90002 0.100098 5.01931 0.100098 6.40002C0.100098 7.78074 1.21939 8.90002 2.6001 8.90002Z" fill="#E2893C"/>
+<path d="M93.8999 6.40002H66.8999" stroke="#E2893C" stroke-width="0.75" stroke-miterlimit="10"/>
+<path d="M94.3999 8.90002C95.7806 8.90002 96.8999 7.78074 96.8999 6.40002C96.8999 5.01931 95.7806 3.90002 94.3999 3.90002C93.0192 3.90002 91.8999 5.01931 91.8999 6.40002C91.8999 7.78074 93.0192 8.90002 94.3999 8.90002Z" fill="#E2893C"/>
+</g>
+<defs>
+<clipPath id="clip0_7_91">
+<rect width="97.1" height="12.7" fill="white"/>
+</clipPath>
+</defs>
 </svg>
