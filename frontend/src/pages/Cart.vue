@@ -107,7 +107,7 @@
                                 <span>Discount</span>
                                 <h3 class="font-bold total-discount">${{ calculateSummaryPrice()[1] }}</h3>
 
-                                <span>Delivery fee</span>
+                                <span>Others Charges</span>
                                 <h3 class="font-bold total-delivery">${{ calculateSummaryPrice()[2] }}</h3>
 
                                 <hr />
