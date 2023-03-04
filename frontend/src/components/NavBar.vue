@@ -1,12 +1,12 @@
 <template>
     <div class="header">
-        <router-link @click="scrollToTop()" to="/" class="logo"><img src="../assets/images/taco-logo.png" alt="" />QFood
+        <router-link @click="scrollToTop()" to="/" class="logo"><img src="../assets/images/logo.svg" alt="" />
         </router-link>
 
         <nav class="navbar">
             <router-link @click="scrollToTop()" to="/">home</router-link>
             <router-link @click="scrollToTop()" to="/about">about</router-link>
-            <router-link @click="scrollToTop()" to="/promotions">promotions</router-link>
+            <router-link @click="scrollToTop()" to="/promotions">Specials</router-link>
             <router-link @click="scrollToTop()" to="/menu">menu</router-link>
             <router-link @click="scrollToTop()" to="/table">table</router-link>
         </nav>
@@ -117,7 +117,7 @@ export default {
 
 .header .logo img {
     padding-right: .5rem;
-    color: #27ae60;
+    color: #94231B;
 }
 
 .header .navbar a {
@@ -127,11 +127,11 @@ export default {
 }
 
 .header .navbar a:hover {
-    color: #27ae60;
+    color: #94231B;
 }
 
 .header .navbar a.router-link-exact-active {
-    color: #f38609;
+    color: #94231B;
 }
 
 .header .icons div {
@@ -149,7 +149,7 @@ export default {
 
 .header .icons div:hover {
     color: #fff;
-    background: #27ae60 !important;
+    background: #94231B !important;
 }
 
 .header .icons a.router-link-exact-active .cart {

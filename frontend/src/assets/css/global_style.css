@@ -33,7 +33,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-    background: #27ae60;
+    background: #94231B;
     border-radius: 5rem;
 }
 
@@ -45,7 +45,7 @@ html::-webkit-scrollbar-thumb {
 .heading span {
     font-family: 'Satisfy', cursive;
     font-size: 3rem;
-    color: #27ae60;
+    color: #94231B;
 }
 
 .heading h3 {
@@ -58,7 +58,7 @@ html::-webkit-scrollbar-thumb {
     font-size: 1.7rem;
     cursor: pointer;
     color: #fff;
-    background: #27ae60;
+    background: #94231B;
     border-radius: .5rem;
 }
 

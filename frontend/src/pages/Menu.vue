@@ -375,7 +375,7 @@ export default {
         filterFoodBtn: function (e) {
             this.pageNum = 0;
             if (this.foodObj.category != e.target.value && this.previousCategoryClicked != "") {
-                this.previousCategoryClicked.target.style.background = "#27ae60";
+                this.previousCategoryClicked.target.style.background = "#94231B";
             }
             this.foodObj.category = e.target.value;
             this.previousCategoryClicked = e;
@@ -513,7 +513,7 @@ hr {
 }
 
 .filter-heading h1 {
-    color: #27ae60;
+    color: #94231B;
 }
 
 .filter-option {
@@ -547,7 +547,7 @@ hr {
     height: 40px;
     font-size: 20px;
     color: white;
-    background: #27ae60;
+    background: #94231B;
 }
 
 ::placeholder {
@@ -563,7 +563,7 @@ hr {
     flex: 0 0 100%;
     max-width: 100%;
     text-align: center;
-    background-color: #27ae60;
+    background-color: #94231B;
 }
 
 .menu-section .menu-tabs .menu-tab-item {
@@ -612,7 +612,7 @@ hr {
 }
 
 .menu-section .box-container .box .fa-heart:hover {
-    color: #27ae60;
+    color: #94231B;
 }
 
 .menu-section .box-container .box .image {
@@ -665,9 +665,9 @@ hr {
 }
 
 .menu-section .action-row .action-btn {
-    background-color: #27ae60;
+    background-color: #94231B;
     padding: 3px;
-    border: 2px solid #27ae60;
+    border: 2px solid #94231B;
     border-radius: 30%;
     color: white;
 }
@@ -726,7 +726,7 @@ hr {
 
     .filter-drop-down {
         display: block;
-        background-color: #27ae60;
+        background-color: #94231B;
         color: white;
         font-weight: 400;
         margin-bottom: 15px;

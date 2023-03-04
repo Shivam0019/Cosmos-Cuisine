@@ -420,7 +420,7 @@ const vUpcase = {
 }
 
 .checkout-container .checkout-form-container form p a {
-    color: #27ae60;
+    color: #94231B;
 }
 
 .checkout-container .checkout-form-container form p a:hover {

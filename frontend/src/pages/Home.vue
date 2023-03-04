@@ -2,15 +2,22 @@
     <div>
         <div class="home-main">
             <div class="content">
-                <span>welcome foodies</span>
-                <h3>Original taste from Mexico 😋</h3>
-                <p>We guarantee to use fresh food with the best quality. Customers will enjoy Mexican cuisine with
-                    explosive, sophisticated flavors.</p>
+                <span>welcome Foodies</span>
+                <h3>Cosmos cuisine 😋</h3>
+                <p>A Planet awaits.
+                    Explore the cosmos.
+                    Sensational voyage.
+                    Life’s too short for boring food.
+                    Add Flavor to your life.
+                    Reaching further and beyond.
+                    Our future is now.
+                    Take your first step on mars.</p>
                 <router-link @click="scrollToTop()" to="/menu" class="btn">order now</router-link>
             </div>
             <div class="image">
-                <img src="../assets/images/b.png" alt="" class="home-img">
-                <img src="../assets/images/a.png" alt="" class="home-parallax-img">
+                <img src="../assets/images/hero_image.png" alt="" class="home-img">
+                <!-- <img src="../assets/images/b.png" alt="" class="home-img"> -->
+                <!-- <img src="../assets/images/a.png" alt="" class="home-parallax-img"> -->
             </div>
         </div>
 
@@ -150,7 +157,7 @@ export default {
 
 .home-main .content span {
     font-size: 2rem;
-    color: #27ae60;
+    color: #94231B;
 }
 
 .home-main .content h3 {
@@ -174,7 +181,7 @@ export default {
 
 .home-main .image .home-img {
     width: 100%;
-    margin-top: 5rem;
+    margin-top: 3rem;
 }
 
 .home-main .home-parallax-img {
@@ -202,7 +209,7 @@ export default {
 }
 
 .home-category .box:hover {
-    background: #27ae60;
+    background: #94231B;
 }
 
 .home-category .box:hover h3 {
@@ -238,7 +245,7 @@ export default {
 .home-banner .row-banner .content span {
     font-family: 'Satisfy', cursive;
     font-size: 4rem;
-    color: #27ae60;
+    color: #94231B;
     color: #130f40;
 }
 
@@ -324,7 +331,7 @@ export default {
 .home-about .content span {
     font-family: 'Satisfy', cursive;
     font-size: 3rem;
-    color: #27ae60;
+    color: #94231B;
 }
 
 .home-about .content .title {

@@ -161,7 +161,7 @@ export default {
 }
 
 .login-container .login-form-container form p a {
-    color: #27ae60;
+    color: #94231B;
 }
 
 .login-container .login-form-container form p a:hover {

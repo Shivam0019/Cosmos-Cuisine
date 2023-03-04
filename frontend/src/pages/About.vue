@@ -7,15 +7,28 @@
 
         <div class="row">
             <div class="about-content">
-                <img src="../assets/images/taco-chefcartoon.png" alt="">
+                <img src="../assets/images/Mars_chef.png" alt="">
                 <div class="about-content-text">
-                    <p>Our restaurant QFood was founded by Quang (a 5 Michelin stars chef) in 2002 in Vietnam. After
-                        that, thanks to the support of our customers, our brand has been popularized globally in markets
-                        such as Australia, USA, Canada, UK, France, Germany, Belgium, Russia, China, Japan,
-                        Singapore, ... Mexican-style meals, the products that we deliver to customers are always the
-                        best quality products.</p>
-                    <p>Customers can eat at the restaurant to experience the Mexican atmosphere or can order food to be
-                        delivered to their homes.</p>
+                    <p>Welcome to our restaurant on Mars! Our mission is to provide a unique dining experience for the brave
+                        explorers who have ventured to the Red Planet.
+                        <br>
+                        Our restaurant is located in the heart of the first Martian colony, and we specialize in creating
+                        delicious meals using locally grown and harvested ingredients. Our team of chefs and culinary
+                        experts have developed a menu that is both nutritious and flavorful, featuring a wide range of
+                        dishes inspired by both Earth and Martian cuisine.
+                        <br><br>
+                        Our dining area is designed to be comfortable and relaxing, with stunning views of the Martian
+                        landscape. We have a fully stocked bar, offering a variety of cocktails and beverages to suit every
+                        taste.
+
+                        At our restaurant, we take food safety and sustainability seriously. We work closely with local
+                        farmers to ensure that our ingredients are grown in a way that is both environmentally friendly and
+                        safe for human consumption. We also have a state-of-the-art recycling system to minimize waste and
+                        conserve resources.
+
+                        Whether you're a seasoned space traveler or a first-time visitor to Mars, our restaurant is the
+                        perfect place to relax and enjoy a delicious meal. We look forward to serving you!</p>
+                   
                 </div>
             </div>
         </div>
@@ -75,7 +88,7 @@ export default {
     margin-top: 50px;
     padding: 10px;
     text-align: center;
-    background-color: #27ae60;
+    background-color: #94231B;
     width: 100%;
 }
 
@@ -164,5 +177,4 @@ export default {
         transform: scale(2);
     }
 
-}
-</style>
+}</style>

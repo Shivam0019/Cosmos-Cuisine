@@ -65,7 +65,7 @@ const vNone = {
 
 .thank-container h1 p span {
     position: relative;
-    color: #27ae60 !important;
+    color: #94231B !important;
     top: 20px;
     display: inline-block;
     -webkit-animation: bounce 0.3s ease infinite alternate;

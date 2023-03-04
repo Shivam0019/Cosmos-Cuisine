@@ -129,7 +129,7 @@ export default {
     padding: 0 2rem;
     font-size: 1.6rem;
     color: #fff;
-    background: #27ae60;
+    background: #94231B;
     cursor: pointer;
 }
 
@@ -163,7 +163,7 @@ export default {
 }
 
 .footer .box-container .box a:hover {
-    color: #27ae60;
+    color: #94231B;
 }
 
 .footer .box-container .box a:hover i {
@@ -172,7 +172,7 @@ export default {
 
 .footer .box-container .box a i {
     padding-right: .5rem;
-    color: #27ae60;
+    color: #94231B;
 }
 
 .footer .bottom {
@@ -192,7 +192,7 @@ export default {
     border-radius: .5rem;
     margin: 0 .3rem;
     color: #fff;
-    background: #27ae60;
+    background: #94231B;
 }
 
 .footer .bottom .share a:hover {

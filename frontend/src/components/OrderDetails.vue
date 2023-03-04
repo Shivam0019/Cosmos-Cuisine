@@ -114,7 +114,7 @@ export default {
 .order-details .order-details-inner h2 {
     margin: 0;
     font-size: 32px;
-    color: #27ae60;
+    color: #94231B;
     margin-bottom: 20px;
 }
 

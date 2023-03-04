@@ -1,7 +1,7 @@
 <template>
     <div class="promotions">
         <div class="heading">
-            <span>promotions</span>
+            <span>Our Specials</span>
             <h3>Best quality with reasonable price</h3>
         </div>
 
@@ -320,7 +320,7 @@ export default {
 .promotions .promotions-item .description h3 {
     font-size: 28px;
     margin-bottom: 20px;
-    color: #27ae60;
+    color: #94231B;
 }
 
 .promotions .promotions-item .description ul {
