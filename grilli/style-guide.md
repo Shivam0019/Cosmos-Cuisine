@@ -22,7 +22,7 @@ Ionicon
 ## Colors
 
 ``` css
---gold-crayola: hsl(38, 61%, 73%);
+--gold-crayola: hsl(22, 88%, 68%);
 --quick-silver: hsla(0, 0%, 65%, 1);
 --davys-grey: hsla(30, 3%, 34%, 1);
 --smoky-black-1: hsla(40, 12%, 5%, 1);
