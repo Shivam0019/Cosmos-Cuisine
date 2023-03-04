@@ -77,9 +77,9 @@
                 <div class="grid col-md-4">
                     <img src="../assets/images/dis-3.jpg" alt="">
                     <div class="content">
-                        <span>limited offer</span>
-                        <h3>100% cashback</h3>
-                        <router-link @click="scrollToTop()" to="/menu" class="btn">order now</router-link>
+                        <!-- <span>limited offer</span>
+                        <h3>100% cashback</h3> -->
+                        <!-- <router-link @click="scrollToTop()" to="/menu" class="btn">order now</router-link> -->
                     </div>
                 </div>
 
@@ -102,20 +102,13 @@
                 <div class="icons-container">
                     <div class="icons">
                         <img src="../assets/images/serv-1.png" alt="">
-                        <h3>fast delivery</h3>
+                        <h3>Fast service</h3>
                     </div>
                     <div class="icons">
                         <img src="../assets/images/serv-2.png" alt="">
                         <h3>fresh food</h3>
                     </div>
-                    <div class="icons">
-                        <img src="../assets/images/serv-3.png" alt="">
-                        <h3>best quality</h3>
-                    </div>
-                    <div class="icons">
-                        <img src="../assets/images/serv-4.png" alt="">
-                        <h3>24/7 support</h3>
-                    </div>
+                
                 </div>
             </div>
         </div>
