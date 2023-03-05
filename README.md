@@ -18,9 +18,6 @@ Recreating Social’s booking system where there is no need for the customers to
 
 ![image](https://user-images.githubusercontent.com/71539186/222943533-a196cbc9-5109-4f45-9cee-0255bc525b2a.png)
 
-![image](https://user-images.githubusercontent.com/71539186/222943536-233b1b83-c805-45b9-b5b2-7b24e26a2fe9.png)
-
-![image](https://user-images.githubusercontent.com/71539186/222943548-3ca1134c-8b0e-4526-b00e-68308f6e4686.png)
 
 
 
